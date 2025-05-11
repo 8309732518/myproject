@@ -1,3 +1,3 @@
 # myproject
-welcome to k8s class
+welcome to dockerss class
 hey sai this is deployment
